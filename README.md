@@ -1,4 +1,4 @@
-s# Twitch Chat in Game Chat (Patched)
+# Twitch Chat in Game Chat (Patched)
 
 This is a patched version of "Twitch Chat in Game Chat" that fixes broken Twitch connectivity caused by outdated IRC WebSocket handling.
 
