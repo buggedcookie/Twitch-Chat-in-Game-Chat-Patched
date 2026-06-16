@@ -63,6 +63,8 @@ public class Irc implements ActionListener {
 }
 ```
 
+I used [https://github.com/GNOME/ghex](Ghex) & [https://github.com/Col-E/Recaf](Recaf) to edit the bytecode 
+
 This build is only intended to restore functionality and is not an official release.
 
 Please leave a star ⭐
